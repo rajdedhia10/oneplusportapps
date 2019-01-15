@@ -1,5 +1,5 @@
-## OnePlus modded Apps
-Adds Stock Oneplus Weather, Widget, Gallery and Sound recorder to your ROM
+## OnePlus Ported Apps
+Adds Stock Oneplus Weather, Widget and Gallery to your ROM
 
 ## Instructions
 *__Install Module__ via Magisk Manager/Recovery
