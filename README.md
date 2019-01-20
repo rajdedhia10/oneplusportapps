@@ -12,4 +12,4 @@ Adds Stock Oneplus Media, Weather, Widget, Gallery and Sound Recorder to your RO
 -topjohnwu for developing Magisk
 -OnePlus for the apps
 
-Any Queries, Contact me on [Telegram](t.me/rajdedhia10)
+Any Queries, Contact me on Telegram @ t.me/rajdedhia10
