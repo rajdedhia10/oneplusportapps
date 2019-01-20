@@ -1,11 +1,15 @@
-## OnePlus Ported Apps
-Adds Stock Oneplus Weather, Widget and Gallery to your ROM
+# OnePlus Ported Apps
+Adds Stock Oneplus Media, Weather, Widget, Gallery and Sound Recorder to your ROM
 
-## Instructions
-*__Install Module__ via Magisk Manager/Recovery
-*Reboot Device
-*__DONOT INSTALL IF YOU USE A ONEPLUS DEVICE. ONLY FOR NON ONEPLUS USERS__
+# Instructions
 
-## Credits
-*topjohnwu for developing Magisk
-*OnePlus for the apps
+-__Install Module__ via Magisk Manager/Recovery
+-Reboot Device
+-__DONOT INSTALL IF YOU USE A ONEPLUS DEVICE. ONLY FOR NON ONEPLUS USERS__
+
+# Credits
+
+-topjohnwu for developing Magisk
+-OnePlus for the apps
+
+Any Queries, Contact me on [Telegram](t.me/rajdedhia10)

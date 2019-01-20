@@ -1,7 +1,7 @@
 id=OPportapps
 name=OnePlus Ported Apps
-version=v0.4
+version=v1.0
 versionCode=1
 author=rajdedhia10
-description=Adds Stock Oneplus Weather, Widget and Gallery to your ROM
+description=Adds Stock Oneplus Media, Weather, Widget, Gallery and Sound Recorder to your ROM
 minMagisk=17000
