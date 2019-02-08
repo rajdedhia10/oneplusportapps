@@ -1,5 +1,12 @@
 # OnePlus Ported Apps
-Adds Stock Oneplus Media, Weather, Widget, Gallery and Sound Recorder to your ROM
+Adds Stock Oneplus Media, Weather, Widget, Gallery Sound Recorder and OnePlus Slate Font to your ROM
+
+#Changelog
+
+-__v2.1__ :Added OnePlus Slate Fonts
+-__v2.0__ :Added OnePlus Media and Sound Recorder Apps
+-__v1.0__ :Initial Release
+
 
 # Instructions
 
