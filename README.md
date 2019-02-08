@@ -3,8 +3,8 @@ Adds Stock Oneplus Media, Weather, Widget, Gallery Sound Recorder and OnePlus Sl
 
 #Changelog
 
--__v2.1__ :Added OnePlus Slate Fonts
--__v2.0__ :Added OnePlus Media and Sound Recorder Apps
+-__v2.1__ :Added OnePlus Slate Fonts<br>
+-__v2.0__ :Added OnePlus Media and Sound Recorder Apps<br>
 -__v1.0__ :Initial Release
 
 
