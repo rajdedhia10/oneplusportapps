@@ -9,6 +9,7 @@ Adds Stock Oneplus Media, Weather, Widget, Gallery Sound Recorder and Calculator
 -__v0.1__: Initial Release
 
 #Easter Egg
+
 You can type '1+' and press '=' for some fun
 
 # Instructions
