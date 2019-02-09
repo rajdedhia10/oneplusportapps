@@ -1,7 +1,7 @@
 id=OPportapps
 name=OnePlus Ported Apps
-version=v2.1
-versionCode=21
+version=v2.2
+versionCode=22
 author=rajdedhia10
-description=Adds Stock Oneplus Media, Weather, Widget, Gallery, Sound Recorder and OnePlus Slate Font to your ROM
+description=Adds Stock Oneplus Media, Weather, Widget, Gallery, Sound Recorder and Calculator to your ROM. Disable the apps you don't require.
 minMagisk=17000
